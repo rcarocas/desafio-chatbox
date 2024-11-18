@@ -6,8 +6,6 @@ module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
     ? '/desafio-consumo-api-rcc/'
     : '/',
-  outputDir: "docs"
-
 }
 
 
