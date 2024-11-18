@@ -3,5 +3,6 @@ module.exports = defineConfig({
   transpileDependencies: true
 });
 
-publicPath: "/desafio-consumo-api-rcc"
+publicPath: "/desafio-consumo-api-rcc",
+outputDir: "docs"
 
